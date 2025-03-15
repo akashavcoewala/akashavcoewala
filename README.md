@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @akashavcoewala
+- 👋 Hi, I’m  Mr. Akash
 - 👀 I’m interested in building scalable solutions and deriving insights from data
-- 🌱 I’m currently learning Spring Boot and DSA
+- 🌱 Enhancing skills, being productive...
 - 📫 How to reach me -> Mail: akashraut2003@gmail.com
-- 😄 Pronouns: Mr. Akash
+- 😄 Pronouns: akash-> @akashavcoewala
 
 <!---
 akashavcoewala/akashavcoewala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
