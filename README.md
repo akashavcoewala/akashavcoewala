@@ -5,11 +5,7 @@
 - 😄 Pronouns: akash-> @akashavcoewala
 
 Skills:
-Power BI
-SQL
-Java
-AWS
-Salesforce
+Power BI | SQL | Python | Java | ML- DS | AWS | Salesforce
 <!---
 akashavcoewala/akashavcoewala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
